@@ -7,7 +7,7 @@ An Excel analysis and stakeholder deck for Camden's Head of Urban Tree Managemen
 - 563 of 648 declining trees (86.9%) have no maintenance job recorded. The council has a visibility gap before it has a budget gap.
 - Highways and Housing hold 81.0% of those unscheduled trees and 75.6% of the trees valued above £100,000.
 - New trees fail most in their second year (6.1%, against 2.1% in Year 1), which points to aftercare rather than planting.
-(images/executive_summary.png)
+![Executive summary](images/executive_summary.png)
  
 ## The business problem
  
